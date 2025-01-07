@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=TeacherGUI
+comment1.params=
+comment1.target=TeacherGUI()
+comment10.params=
+comment10.target=void\ clearSetSalaryFields()
+comment11.params=buttons\ background\ foreground
+comment11.target=void\ setButtonColors(javax.swing.JButton[],\ java.awt.Color,\ java.awt.Color)
+comment2.params=ae
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=boolean\ validateLecturerFields()
+comment4.params=
+comment4.target=boolean\ validateTutorFields()
+comment5.params=
+comment5.target=void\ clearLecturerFields()
+comment6.params=
+comment6.target=void\ clearTutorFields()
+comment7.params=
+comment7.target=boolean\ validateGradeFields()
+comment8.params=teacherID
+comment8.target=Teacher\ findTeacherByID(int)
+comment9.params=
+comment9.target=boolean\ validateSetSalaryFields()
+numComments=12
